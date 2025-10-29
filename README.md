@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Denzell Griffith
 
-**Full Stack Software Engineer** passionate about crafting user-centered digital experiences through modern web technologies and clean architecture.
+**Full Stack Software Engineer** 💻 passionate about crafting user-centered digital experiences through modern web technologies and clean architecture.
 
 I focus on building performant, scalable, and maintainable products — balancing solid engineering practices with a strong sense of design and user experience 🚀
 
