@@ -5,16 +5,10 @@
 I focus on building performant, scalable, and maintainable products — balancing solid engineering practices with a strong sense of design and user experience 🚀
 
 ### Tech Stack 🧠
-- **Languages:** TypeScript, JavaScript, Java, PHP, SQL  
-- **Frameworks & Tools:** React, Next.js, Angular, Node.js, Express, Laravel, Spring Boot  
-- **Databases & Infra:** PostgreSQL, MySQL, MongoDB, Azure, Docker  
-- **Other:** Tailwind CSS, Shadcn/UI, Zustand, CI/CD, Agile, Clean Architecture  
+[![My Skills](https://skillicons.dev/icons?i=ts,javascript,java,php,html,css,react,nextjs,angular,tailwind,nodejs,express,laravel,spring,mysql,postgres,mongodb,docker,azure,githubactions,figma,postman,git,vite,md,npm&theme=light)](https://skillicons.dev)
 
 ### Currently Exploring 🌱
 Expanding my backend expertise and learning more about **DevOps** and **AI-driven development**.
-
-### What Drives Me 🧩
-I enjoy solving complex problems, designing seamless experiences, and helping teams work smarter and faster through collaboration, leadership, and thoughtful engineering.
 
 ### Let's Connect 📫
 - **LinkedIn:** [linkedin.com/in/denzell-griffith](https://www.linkedin.com/in/denzell-griffith/)
