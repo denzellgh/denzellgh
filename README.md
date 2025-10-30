@@ -5,7 +5,7 @@
 I focus on building performant, scalable, and maintainable products — balancing solid engineering practices with a strong sense of design and user experience 🚀
 
 ### Tech Stack 🧠
-[![My Skills](https://skillicons.dev/icons?i=ts,javascript,java,php,html,css,react,nextjs,angular,tailwind,nodejs,express,laravel,spring,mysql,postgres,mongodb,docker,azure,githubactions,figma,postman,git,vite,md,npm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,javascript,java&theme=dark,php&theme=dark,html,css,react&theme=dark,nextjs&theme=dark,angular&theme=dark,tailwind&theme=dark,nodejs&theme=dark,express&theme=dark,laravel&theme=dark,spring&theme=dark,mysql&theme=dark,postgres&theme=dark,mongodb,docker,azure&theme=dark,githubactions&theme=dark,figma,postman,git,vite&theme=dark,md&theme=dark,npm&theme=light)](https://skillicons.dev)
 
 ### Currently Exploring 🌱
 Expanding my backend expertise and learning more about **DevOps** and **AI-driven development**.
